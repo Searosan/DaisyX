@@ -111,7 +111,7 @@ Sub Region:- {sub}
 Time Zones:- {tom}
 Top Level Domain:- {lanester}
 wikipedia:- {wiki}</b>
-Gathered By Daisy X.</b>
+Gathered By Mosia Mk.</b>
 """
 
     await borg.send_message(
