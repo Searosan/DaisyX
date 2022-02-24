@@ -2,7 +2,7 @@
 echo "
 *********** STARTING DEPLOY ***********
 
-DAISYX v2 -Base Aiogram
+MOSIA MK v2 -Base Aiogram
 (C) 2020-2021 by @meribaj
 Support Chat is @osmanigroupbot.
 
