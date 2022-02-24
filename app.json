@@ -1,6 +1,6 @@
 {
   "name": "Mosiamk",
-  "description": "?",
+  "description": "Tani Waa Mosia Mk Robot Waana Bot Caalami ah",
   "logo": "https://telegra.ph/file/ca230a69e939adcd3065f.jpg",
   "keywords": [
     "telegram",
@@ -50,7 +50,7 @@
     },
     "MONGO_DB": {
       "description": "Don't change.",
-      "value": "DaisyX",
+      "value": "MosiaMk",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -93,7 +93,7 @@
     },
     "OWNER_ID": {
       "description": "Your Id",
-      "value": "",
+      "value": "1008271006",
       "required": true
     },
     "OPERATORS": {
@@ -103,12 +103,12 @@
     },
     "SUPPORT_CHAT": {
       "description": "support chat id",
-      "value": "",
+      "value": "-1001150107625",
       "required": true
     },
     "SUDO_USERS": {
       "description": "For gbans",
-      "value": "",
+      "value": "1008271006",
       "required": true
     },
     "DATABASE_URL": {
